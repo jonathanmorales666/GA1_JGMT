@@ -1,6 +1,5 @@
 # Jonathan Gabriel Morales Torres
-
-# ejercici1cfcr
+# Tipos de variables float
 
 # Precio de un producto
 precio = 12.50

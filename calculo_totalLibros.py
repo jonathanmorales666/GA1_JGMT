@@ -1,7 +1,5 @@
 # Jonathan Gabriel Morales Torres
-
-# Los ejercicios deben de tener sus iniciales de su nombre completo
-# ejercici1cfcr
+# Ejercicio 3: suma de variables
 
 # Cantidad de libros en casa
 libros_en_casa = 30

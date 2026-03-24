@@ -1,4 +1,5 @@
 # Jonathan Gabriel Morales Torres "10"
+# Ejercicio 1: cadenas de texto
 
 # 1. Nombre ( Cadena de texto - String)
 nombre = "Jonatnan Morales"

@@ -1,8 +1,5 @@
 #Jonathan Gabriel Morales Torres "10"
-# Ejercici1cfcr
-# El ejercicio agregar sus datos
-# Agregar su nombre
-
+# Ejercicio 2: concatenar
 # edad actual
 edad = 17
 

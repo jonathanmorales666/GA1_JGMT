@@ -1,5 +1,5 @@
 # Jonathan Gabriel Morales Torres "10"
-# Ejercicio1cfcr
+# Ejercicio 5: calificar los promedios
 
 
 
