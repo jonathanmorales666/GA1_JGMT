@@ -1,5 +1,5 @@
 # Jonathan Gabriel Morales Torres
-# Tipos de variables float
+# Ejercicio 4: Tipos de variables float
 
 # Precio de un producto
 precio = 12.50
