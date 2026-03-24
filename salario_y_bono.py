@@ -1,4 +1,6 @@
 # Jonathan Gabriel Morales Torres
+# Ejercicio 13: Salario del empleado jonathan :)
+
 salario_base= 3500.00        # Salario mensual en quetzales
 bono_productividad =500.00   # Bono mensualn fijo
 impuesto = 0.12              # 12% de impuesto sobre el salario total
